@@ -1,4 +1,5 @@
 K-means
+
 Parallel version of k-means.
 
 In k_means_functions.c you can find all the function you need to run k-means.
