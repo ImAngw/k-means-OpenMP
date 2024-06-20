@@ -8,8 +8,8 @@
 #include "math.h"
 
 #define MAX_THR  8             // NUmber of threads you want to activate
-#define N 100000              // Number of points in the database
-#define N_CENTROIDS 10         // Number of centroids you want to use
+#define N 1000000              // Number of points in the database
+#define N_CENTROIDS 100         // Number of centroids you want to use
 
 
 typedef struct {
